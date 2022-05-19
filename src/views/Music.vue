@@ -25,7 +25,7 @@
 					<div class="header band__header">Casual Yak</div>
 					<iframe
 						class="band__music"
-						src="https://open.spotify.com/track/1xPpdnkA8E9lvjXh6RMfU5?si=3066619e1f204e19"
+						src="https://open.spotify.com/embed/track/1xPpdnkA8E9lvjXh6RMfU5"
 						width="300"
 						height="380"
 						frameborder="0"
