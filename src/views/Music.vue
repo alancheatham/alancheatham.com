@@ -71,43 +71,13 @@
 					<div class="header band__header">Chunky Hustle Brass Band</div>
 					<iframe
 						class="band__music"
-						width="370"
-						height="278"
-						scrolling="no"
-						frameborder="no"
-						allow="autoplay"
-						src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/769177057&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+						src="https://open.spotify.com/embed/track/5tOBhK4NqubNwrhhX2cLI2"
+						width="300"
+						height="380"
+						frameborder="0"
+						allowtransparency="true"
+						allow="encrypted-media"
 					></iframe>
-					<div
-						style="
-							font-size: 10px;
-							color: #cccccc;
-							line-break: anywhere;
-							word-break: normal;
-							overflow: hidden;
-							white-space: nowrap;
-							text-overflow: ellipsis;
-							font-family: Interstate, Lucida Grande, Lucida Sans Unicode,
-								Lucida Sans, Garuda, Verdana, Tahoma, sans-serif;
-							font-weight: 100;
-						"
-					>
-						<a
-							href="https://soundcloud.com/chunkyhustlebrassband"
-							title="Chunky Hustle Brass Band"
-							target="_blank"
-							style="color: #cccccc; text-decoration: none"
-							>Chunky Hustle Brass Band</a
-						>
-						·
-						<a
-							href="https://soundcloud.com/chunkyhustlebrassband/sesame-street"
-							title="Sesame Street"
-							target="_blank"
-							style="color: #cccccc; text-decoration: none"
-							>Sesame Street</a
-						>
-					</div>
 					<a
 						class="contact__item"
 						href="https://instagram.com/chunkyhustlebrassband"
