@@ -180,6 +180,7 @@
         <span class="skill">React</span>
         <span class="skill">Redux</span>
         <span class="skill">Node</span>
+        <span class="skill">Postgres</span>
         <span class="skill">Electron</span>
         <span class="skill">Unit Testing</span>
         <span class="skill">Docker</span>
