@@ -16,10 +16,10 @@
           Why Alan?
         </h3>
         <p>
-          Hi, I'm Alan! I live in San Diego. I primarily work on the front end,
-          and am proficient in HTML, CSS, JavaScript. I'm equal parts big
-          picture and detail oriented, and have experience with several popular
-          frameworks.
+          Hi, I'm Alan! I live in Buenos Aires, Argentina. I primarily work on
+          the front end, and am proficient in HTML, CSS, JavaScript. I'm equal
+          parts big picture and detail oriented, and have experience with
+          several popular frameworks.
         </p>
         <p>
           I have many interests, several of which have helped me become a better
@@ -40,10 +40,35 @@
         <div class="jobs">
           <div class="job">
             <div class="job__title">
+              <b>Lead Developer</b> at <b>Ahi-ta! (Startup)</b>
+            </div>
+            <div class="job__date">
+              September 2020 - Present
+            </div>
+            <div class="job__description">
+              Original member of founding team
+              <p>
+                <span class="ingage-project">Ahi-ta! Chrome Extension</span> -
+                Created a chrome extension using Vue that offers cashback on
+                select items in grocery stores in Argentina. It also tracks
+                grocery store prices and notifies the user when there is a
+                better deal available. Sole developer on the front-end.
+              </p>
+              <p>
+                <span class="ingage-project">Ahi-ta! Business Services</span> -
+                Analytics Platform for brands to track their products'
+                performance. Features many metrics including Market Share, Cart
+                Profiling, and Prices of products across 23 different locations
+                throughout the country. Worked on the front and back end.
+              </p>
+            </div>
+          </div>
+          <div class="job">
+            <div class="job__title">
               <b>Software Engineer</b> at <b>Ingage</b>
             </div>
             <div class="job__date">
-              October 2015 - April 2020
+              October 2015 - April 2020, Jun 2023 - Present
             </div>
             <div class="job__description">
               Major contributor on several projects for Ingage
@@ -148,7 +173,7 @@
           Skills
         </h3>
         <span class="skill">HTML</span>
-        <span class="skill">Javascript</span>
+        <span class="skill">Typescript</span>
         <span class="skill">CSS</span>
         <span class="skill">Vue</span>
         <span class="skill">Nuxt</span>
@@ -165,7 +190,7 @@
         <h3>
           What I'm Learning
         </h3>
-        <span class="skill">Chrome Extensions</span>
+        <span class="skill">AI and Reinforcement Learning</span>
       </div>
       <div class="section contact left">
         <h3>
