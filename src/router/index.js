@@ -3,6 +3,7 @@ import VueRouter from "vue-router"
 import About from "../views/About.vue"
 import Music from "../views/Music.vue"
 import Resume from "../views/Resume.vue"
+import PrivacyPolicy from "../views/PrivacyPolicy.vue"
 
 Vue.use(VueRouter)
 
@@ -26,6 +27,11 @@ const routes = [
     path: "/resume",
     name: "Resume",
     component: Resume,
+  },
+  {
+    path: "/privacy-policy",
+    name: "Privacy Policy",
+    component: PrivacyPolicy,
   },
 ]
 
