@@ -1,7 +1,15 @@
 <template>
   <div class="home">
+    <h1>Privacy Policy</h1>
+    <h2>Pivot</h2>
     <div class="content">
-      I do not collect any data from this app.
+      I do not collect any data from this app.<br />
+      Contact alancheatham@gmail.com with any questions.
+    </div>
+    <h2>Poke A Dot</h2>
+    <div class="content">
+      I do not collect any data from this app.<br />
+      Contact alancheatham@gmail.com with any questions.
     </div>
   </div>
 </template>
@@ -15,49 +23,25 @@ export default {
 <style lang="stylus" scoped>
 .home
 	display flex
-	justify-content center
-
-.content
-	max-width 330px
-	width 100%
-	padding 0 15px 15px
-	display flex
 	flex-direction column
 	align-items center
 
-.portrait
-	width 300px
-	height 300px
-	border-radius 100%
-	border 2px solid #a5cfde
-	overflow hidden
-	box-shadow 6px 6px 24px 5px rgba(0, 0, 0, 0.3)
-
-img
+.content
+	max-width 600px
 	width 100%
+	padding 15px
+	display flex
+	flex-direction column
+	align-items center
+	text-align center
 
-.info
-	padding-top 50px
-
-.header
-	font-size 25px
+h1
+	font-size 35px
+	margin-bottom 10px
 	color #a5cfde
 
-.body
-	padding-top 20px
-	line-height 1.2
-
-.contact
-	display flex
-	align-items center
-	justify-content space-between
-	margin-top 25px
-
-.icon
-	width 40px
-	border-radius 30%
-	transition ease-in 0.1s
-
-	&:hover
-		transform scale(1.1)
+h2
+	font-size 20px
+	color #a5cfde
+	padding-top 10px
 </style>
