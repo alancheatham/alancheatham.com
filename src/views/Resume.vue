@@ -49,10 +49,11 @@
               Original member of founding team
               <p>
                 <span class="ingage-project">Ahi-ta! Chrome Extension</span> -
-                Created a chrome extension using Vue that offers cashback on
-                select items in grocery stores in Argentina. It also tracks
-                grocery store prices and notifies the user when there is a
-                better deal available. Sole developer on the front-end.
+                Created a chrome extension with 30k downloads using Vue that
+                offers cashback on select items in grocery stores in Argentina.
+                It also tracks grocery store prices and notifies the user when
+                there is a better deal available. Sole developer on the
+                front-end.
               </p>
               <p>
                 <span class="ingage-project">Ahi-ta! Business Services</span> -
