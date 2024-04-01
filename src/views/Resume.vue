@@ -40,10 +40,25 @@
         <div class="jobs">
           <div class="job">
             <div class="job__title">
+              <b>Senior Software Engineer</b> at <b>WhyGolf</b>
+            </div>
+            <div class="job__date">
+              January 2024 - Present
+            </div>
+            <div class="job__description">
+              <p>
+                <span class="ingage-project">WhyGolf App</span> - Creating a
+                golf shot tracking and analysis app using React Native and
+                Firebase.
+              </p>
+            </div>
+          </div>
+          <div class="job">
+            <div class="job__title">
               <b>Lead Developer</b> at <b>Ahi-ta! (Startup)</b>
             </div>
             <div class="job__date">
-              September 2020 - Present
+              September 2020 - January 2024
             </div>
             <div class="job__description">
               Original member of founding team
@@ -118,35 +133,6 @@
               EOS.WEB.
             </div>
           </div>
-          <div class="job">
-            <div class="job__title"><b>Game Developer</b> at <b>Self</b></div>
-            <div class="job__date">
-              Ongoing
-            </div>
-            <div class="job__description">
-              Released two games on iOS and Android
-              <a
-                class="contact__item"
-                href="https://apps.apple.com/us/app/pivot-timing-game/id1507306708"
-                target="_blank"
-              >
-                <img class="icon" src="../assets/icons/pivot.png" />
-                <span class="icon__label">Pivot</span>
-              </a>
-              <a
-                class="contact__item"
-                href="https://apps.apple.com/us/app/poke-a-dot-reflex-game/id929419021"
-                target="_blank"
-              >
-                <img class="icon" src="../assets/icons/pokeadot.png" />
-                <span class="icon__label">Poke a Dot</span>
-              </a>
-              <p>
-                I enjoy thinking of and making "brain" games that test reflexes,
-                timing, and quick thinking.
-              </p>
-            </div>
-          </div>
         </div>
       </div>
       <div class="section education right">
@@ -179,6 +165,8 @@
         <span class="skill">Vue</span>
         <span class="skill">Nuxt</span>
         <span class="skill">React</span>
+        <span class="skill">React Native</span>
+        <span class="skill">Firebase</span>
         <span class="skill">Redux</span>
         <span class="skill">Node</span>
         <span class="skill">Postgres</span>
@@ -188,13 +176,50 @@
         <span class="skill">Socket.IO</span>
         <span class="skill">Lua</span>
       </div>
-      <div class="section learning left">
+      <div class="section left">
         <h3>
           What I'm Learning
         </h3>
         <span class="skill">AI and Reinforcement Learning</span>
       </div>
-      <div class="section contact left">
+      <div class="section games left">
+        <h3>My Games</h3>
+        <div class="job">
+          <div class="job__description">
+            Released two games on iOS and Android
+            <a
+              class="contact__item"
+              href="https://apps.apple.com/us/app/pivot-timing-game/id1507306708"
+              target="_blank"
+            >
+              <img class="icon" src="../assets/icons/pivot.png" />
+              <span class="icon__label">Pivot</span>
+            </a>
+            <a
+              class="contact__item"
+              href="https://apps.apple.com/us/app/poke-a-dot-reflex-game/id929419021"
+              target="_blank"
+            >
+              <img class="icon" src="../assets/icons/pokeadot.png" />
+              <span class="icon__label">Poke a Dot</span>
+            </a>
+          </div>
+          <div class="job__description mt-5">
+            Score Four Online
+            <a
+              class="contact__item"
+              href="https://score-four.com"
+              target="_blank"
+            >
+              <img class="icon" src="../assets/icons/scorefour.png" />
+              <span class="icon__label">Score Four</span>
+            </a>
+            <p>
+              I enjoy thinking of and making "brain" games that test reflexes,
+              timing, and quick thinking.
+            </p>
+          </div>
+        </div>
         <h3>
           Contact
         </h3>
@@ -272,6 +297,10 @@ b
 .skill
   display inline-block
 
+.mt-5 {
+  margin-top 5px
+}
+
 .programming
   max-width 100%
   height auto
@@ -330,6 +359,9 @@ b
   grid-column 1
 
 .contact
+  grid-row 6/10
+
+.games
   grid-row 5/10
 
 .contact__item
