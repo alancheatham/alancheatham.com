@@ -166,6 +166,7 @@
         <span class="skill">Nuxt</span>
         <span class="skill">React</span>
         <span class="skill">React Native</span>
+        <span class="skill">Next.js</span>
         <span class="skill">Firebase</span>
         <span class="skill">Redux</span>
         <span class="skill">Node</span>
