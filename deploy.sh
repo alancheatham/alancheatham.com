@@ -4,6 +4,7 @@
 set -e
 
 # build
+export NODE_OPTIONS=--openssl-legacy-provider
 yarn build
 
 # copy 404.html
