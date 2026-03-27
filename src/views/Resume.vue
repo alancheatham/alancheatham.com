@@ -38,7 +38,7 @@
           Experience
         </h3>
         <div class="jobs">
-          <div class="job">
+          <!-- <div class="job">
             <div class="job__title">
               <b>Senior Software Engineer</b> at <b>WhyGolf</b>
             </div>
@@ -52,7 +52,7 @@
                 Firebase.
               </p>
             </div>
-          </div>
+          </div> -->
           <div class="job">
             <div class="job__title">
               <b>Lead Developer</b> at <b>Ahi-ta! (Startup)</b>
